@@ -1,0 +1,16 @@
+name: TostiFullRay
+version: 1.0.0.0
+version.major: 1
+version.minor: 0
+version.patch: 0
+version.build: 0
+type: stable
+
+depend: []
+
+main: net.tostimc.noray.PluginStarter
+load: STARTUP
+
+commands:
+    command:
+        description: er hoort hier iets zinnigs te staan
